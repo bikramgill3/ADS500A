@@ -1,5 +1,5 @@
-# ADS500A
-Repository for final project in ADS500A - House Sales predictions
+# ADS500B
+Repository for final project in ADS500B - House Sales predictions
 
 
 The dataset used in this project contains details of house sales in neighborhoods of King County, Washington. 
